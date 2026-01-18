@@ -1,0 +1,9 @@
+for collecting data:
+python collect_data.py
+change the label name in the code while collecting data 
+
+for train the model:
+python train_model.py
+
+to run:
+python app.py
